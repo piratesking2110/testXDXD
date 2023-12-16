@@ -1,0 +1,13 @@
+Access providers, such as internet service providers (ISPs), facilitate connectivity between users and the internet. However, they cannot guarantee successful access to any computer attached to the internet due to several reasons:
+
+Network Issues: The internet is a complex network of interconnected devices and systems. Various factors, such as network congestion, hardware failures, or routing issues, can disrupt connectivity. Access providers have limited control over the entire internet infrastructure, making it impossible to guarantee seamless access at all times.
+
+User Configuration: The successful access to a computer also depends on the user's configuration, including their network settings, firewall configurations, and security measures. If a user has misconfigured settings or restrictive security measures, it may hinder access, and the access provider cannot control these individual user choices.
+
+Target System Availability: The computer or server that a user is trying to access may not always be available. Downtime, maintenance, or technical issues on the target system can prevent successful access, and the access provider has no control over the availability of individual systems on the internet.
+
+Security Measures: Security measures, such as firewalls, intrusion detection systems, and other protective mechanisms, may block access attempts for legitimate or unauthorized reasons. While these measures are crucial for overall internet security, they can also impede access, and access providers cannot bypass these security measures without compromising the security of the network.
+
+Geographical Limitations: Certain services or content may be restricted based on geographical locations due to legal or licensing reasons. Access providers cannot override these restrictions, and users may face limitations in accessing content from specific regions.
+
+Internet Governance and Policies: The internet operates based on a set of protocols and standards, and it is governed by various organizations and policies. Compliance with these standards and policies is essential for interoperability, but it can also introduce limitations on access that the access provider cannot circumvent.

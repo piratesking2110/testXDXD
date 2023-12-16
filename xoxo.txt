@@ -1,0 +1,32 @@
+While I can't provide an actual diagram, I can describe the working of an e-payment system involving credit cards, debit cards, and smart cards. Let's break down the process step by step:
+
+Initiation of Payment:
+
+The e-payment process begins when a customer initiates a payment for goods or services through an online platform, mobile app, or in a physical store.
+Merchant's Point of Sale (POS) System:
+
+In the case of a physical store, the merchant uses a Point of Sale (POS) system to accept payments. If the transaction is online, the merchant's website or app serves as the virtual POS.
+Card Information Entry:
+
+The customer provides payment information, which typically includes card details such as card number, expiration date, and CVV (Card Verification Value).
+Transaction Encryption:
+
+The entered card information is encrypted to ensure the security of the transaction. Encryption helps protect sensitive data from unauthorized access during transmission.
+Payment Gateway:
+
+The encrypted information is then sent to a payment gateway. The payment gateway is a service that facilitates the communication between the merchant's system and the financial institution that issued the card.
+Authorization Request:
+
+The payment gateway forwards the authorization request to the card network (e.g., Visa, Mastercard) and then to the card issuer (the bank that issued the credit or debit card).
+Authorization Response:
+
+The card issuer reviews the transaction request, checking for available funds, transaction limits, and other factors. The issuer then sends an authorization response back to the payment gateway.
+Transaction Approval/Denial:
+
+Based on the response from the card issuer, the payment gateway informs the merchant whether the transaction is approved or denied. If approved, the merchant proceeds with providing the goods or services.
+Funds Transfer:
+
+In the case of credit cards, the funds are not immediately transferred. Instead, they are reserved for the customer. For debit cards, the funds are directly withdrawn from the customer's bank account.
+Transaction Settlement:
+
+At the end of the day or a specified period, the merchant's payment processor consolidates all approved transactions and settles the funds. The settled amount is then transferred to the merchant's bank account.
